@@ -34,11 +34,10 @@ An Odoo (OpenERP) backend developer having six(6) years of experience in Odoo/Op
 - 💚 Odoo Code Migration
 - 💚 Odoo Report creations
 - 💚 Odoo Community Association(OCA) member.
-<br/>
 </p>
 
 
-  <img align="right" alt="GIF" src="https://i.ibb.co/LpgdFKH/tumblr-7ad60f869aa246feb25c825e3ff79cd6-b69f9301-540.webp" width="500" height="300"/>
+  <img align="right" alt="GIF" src="https://i.ibb.co/LpgdFKH/tumblr-7ad60f869aa246feb25c825e3ff79cd6-b69f9301-540.webp" width="400" height="300"/>
   
 ### ✨ Quick Facts
 
