@@ -48,6 +48,9 @@ SPECIALISATIONS:
 - 📫 How to reach me: hirendangar@gmail.com
 - ✨ Skype: hirendangar@gmail.com
 
+<br/>
+<br/>
+<br/>
 ### 🛠️ Languages and Tools:
 
 ![Odoo](https://img.shields.io/badge/Odoo-Odoo%3A%20Open%20Source%20ERP%20and%20CRM-pink)
