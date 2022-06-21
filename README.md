@@ -64,7 +64,6 @@ SPECIALISATIONS:
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Invoice Processing](https://img.shields.io/badge/-%20Invoice%20Processing-orange)
 ![Python (Programming Language)](https://img.shields.io/badge/-Python%20(Programming%20Language)-yellowgreen)
-
 ![Odoo8](https://img.shields.io/badge/-Odoo8-pink)
 ![Odoo9](https://img.shields.io/badge/-Odoo9-pink)
 ![Odoo10](https://img.shields.io/badge/-Odoo10-pink)
