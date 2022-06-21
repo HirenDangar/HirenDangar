@@ -53,9 +53,11 @@ SPECIALISATIONS:
 ![Odoo](https://img.shields.io/badge/Odoo-Odoo%3A%20Open%20Source%20ERP%20and%20CRM-pink)
 ![OpenERP](https://img.shields.io/badge/-OpenERP-pink&logo=odoo)
 ![Python](https://img.shields.io/badge/-Python-black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-red?style=flat-square&logo=ubuntu)
 ![PostgreSQL](https://img.shields.io/badge/-%20PostgreSQL-blue)
-![GitHub](https://img.shields.io/badge/-%20GitHub-brightgreen)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Invoice Processing](https://img.shields.io/badge/-%20Invoice%20Processing-orange)
 ![Python (Programming Language)](https://img.shields.io/badge/-Python%20(Programming%20Language)-yellowgreen)
 
@@ -70,10 +72,6 @@ SPECIALISATIONS:
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 
 
