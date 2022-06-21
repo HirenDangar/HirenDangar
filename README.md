@@ -1,6 +1,4 @@
-### Hi there 👋, I'm [Hiren](https://github.com/aman-atg) 👨‍💻
-
-<br/>
+### Hi there 👋, I'm [Hiren Dangar](https://github.com/aman-atg) 👨‍💻
 
 <a href="https://www.linkedin.com/in/hirendangar/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hiren's Linkedin" height="30" width="40" />
