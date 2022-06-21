@@ -85,7 +85,7 @@ or [![Gmail Badge](https://img.shields.io/badge/-hirendangar@gmail.com-c14438?st
 if you are on a similar path as mine.
 -->
 
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Hiren_Dangar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hirendangar/)](https://www.linkedin.com/in/hirendangar/)
 ----
 Credit: [aman-atg](https://github.com/aman-atg)
 
