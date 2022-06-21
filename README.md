@@ -44,9 +44,9 @@ SPECIALISATIONS:
 
 - 👨🏽‍💻 I’m currently working as a team lead Odoo.
 - 💬 Ask me about anything related to OpenERP/Odoo, Python.(😌)
-<!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Playing Cricket, Surfing the Internet.
 - 📫 How to reach me: hirendangar@gmail.com
+- 💬 Skype:  (pasystem) hirendangar@gmail.com
 
 ### 🛠️ Languages and Tools:
 
