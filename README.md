@@ -26,6 +26,7 @@ An Odoo (OpenERP) backend developer having six(6) years of experience in Odoo/Op
 <br/><br/>
   
 SPECIALISATIONS:
+<br/>
 💚 Odoo Module Customisation 
 <br/>
 💚 Odoo Code Migration
@@ -41,10 +42,8 @@ SPECIALISATIONS:
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Unit-Testing and TypeScript.
-<!--- 🤔 I’m looking for help for my future MERN projects.-->
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+- 👨🏽‍💻 I’m currently working as a team lead Odoo.
+- 💬 Ask me about anything related to OpenERP/Odoo, Python.(😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
 - 📫 How to reach me: aman.atg001@gmail.com
