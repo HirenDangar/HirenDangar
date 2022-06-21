@@ -87,6 +87,4 @@ if you are on a similar path as mine.
 
 ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Hiren_Dangar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hirendangar/)](https://www.linkedin.com/in/hirendangar/)
 ----
-Credit: [aman-atg](https://github.com/aman-atg)
-
-Last Edited on: 19/11/2020
+Credit: [Hiren-Dangar](https://github.com/HirenDangar)
