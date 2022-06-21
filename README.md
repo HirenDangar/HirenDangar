@@ -51,7 +51,7 @@ SPECIALISATIONS:
 ### 🛠️ Languages and Tools:
 
 ![Odoo](https://img.shields.io/badge/Odoo-Odoo%3A%20Open%20Source%20ERP%20and%20CRM-pink)
-![OpenERP](https://img.shields.io/badge/-OpenERP-pink)
+![OpenERP](https://img.shields.io/badge/-OpenERP-pink&logo=odoo)
 ![Python](https://img.shields.io/badge/-Python-black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-red)
 ![PostgreSQL](https://img.shields.io/badge/-%20PostgreSQL-blue)
