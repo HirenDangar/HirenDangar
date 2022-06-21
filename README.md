@@ -1,20 +1,16 @@
-### Hi there 👋, I'm [Aman](https://github.com/aman-atg) 👨‍💻
+### Hi there 👋, I'm [Hiren](https://github.com/aman-atg) 👨‍💻
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aman-atg/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/hirendangar/">
+  <img align="left" alt="Hiren's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://t.me/amanatg0">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://twitter.com/hirendangar13">
+  <img align="left" alt="Hiren Dangar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://twitter.com/aman_atg">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:aman.atg001@gmail.com">
+<a href="mailto:hirendangar@gmail.com">
   <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -24,13 +20,16 @@
 <br/>
 
 <p>
-A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
+Experienced Software development with a demonstrated history of working in the computer software industry. Skilled in Odoo (OpenERP)/Python and Software Development.
 <br/>
-Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
-<br/>  
-Things I am currently experimenting with : jest , enzyme , typescript, ...
+An Odoo (OpenERP) backend developer having six(6) years of experience in Odoo/OpenERP framework and developed wide range of open source software’s and customisation for start up companies and small businesses. Working with various odoo version from v7, v8, v9, v10, v11, v12, v13, v14 and v15 latest.
 <br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+SPECIALISATIONS:
+
+💚 Odoo Module Customisation 
+💚 Odoo Code Migration
+💚 Odoo Report creations
+💚 Odoo Community Association(OCA) member.
 </p>
 
 
