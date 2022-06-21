@@ -26,6 +26,7 @@
 <p>
 Experienced Software development with a demonstrated history of working in the computer software industry. Skilled in Odoo (OpenERP)/Python and Software Development.
 <br/>
+<br/>
 An Odoo (OpenERP) backend developer having six(6) years of experience in Odoo/OpenERP framework and developed wide range of open source software’s and customisation for start up companies and small businesses. Working with various odoo version from v7, v8, v9, v10, v11, v12, v13, v14 and v15 latest.
 <br/><br/>
   
