@@ -46,7 +46,7 @@ SPECIALISATIONS:
 - 💬 Ask me about anything related to OpenERP/Odoo, Python.(😌)
 - 🎿 Hobbies other than coding : Playing Cricket, Surfing the Internet.
 - 📫 How to reach me: hirendangar@gmail.com
-- 💬 Skype:  (pasystem) hirendangar@gmail.com
+- ✨ Skype: hirendangar@gmail.com
 
 ### 🛠️ Languages and Tools:
 
