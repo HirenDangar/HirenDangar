@@ -42,10 +42,11 @@ An Odoo (OpenERP) backend developer having six(6) years of experience in Odoo/Op
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working as a team lead Odoo.
-- 💬 Ask me about anything related to OpenERP/Odoo, Python.(😌)
+- 💬 Ask me about anything related to OpenERP/Odoo, Python.
 - 🎿 Hobbies other than coding : Playing Cricket, Surfing the Internet.
 - 📫 How to reach me: hirendangar@gmail.com
 - ✨ Skype: hirendangar@gmail.com
+- 🎋 Bigest fan of Marvel cinema.
 
 <br/>
 <br/>
