@@ -53,7 +53,7 @@ SPECIALISATIONS:
 ![Odoo](https://img.shields.io/badge/Odoo-Odoo%3A%20Open%20Source%20ERP%20and%20CRM-pink)
 ![OpenERP](https://img.shields.io/badge/-OpenERP-pink&logo=odoo)
 ![Python](https://img.shields.io/badge/-Python-black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-red)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-red&logo=ubuntu)
 ![PostgreSQL](https://img.shields.io/badge/-%20PostgreSQL-blue)
 ![GitHub](https://img.shields.io/badge/-%20GitHub-brightgreen)
 ![Invoice Processing](https://img.shields.io/badge/-%20Invoice%20Processing-orange)
