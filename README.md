@@ -3,15 +3,19 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/hirendangar/">
-  <img align="left" alt="Hiren's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hiren's Linkedin" height="30" width="40" />
 </a>
 
 <a href="https://twitter.com/hirendangar13">
-  <img align="left" alt="Hiren Dangar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hiren's Twitter" height="30" width="40" />
 </a>
 
 <a href="mailto:hirendangar@gmail.com">
   <img align="left" alt="Hiren's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a href="https://join.skype.com/invite/fSvHdKwwejgq" target="blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Hiren's Skype" height="30" width="40" />
 </a>
 
 
