@@ -44,7 +44,7 @@ An Odoo (OpenERP) backend developer having six(6) years of experience in Odoo/Op
 - 🎿 Hobbies other than coding : Playing Cricket, Surfing the Internet.
 - 📫 How to reach me: hirendangar@gmail.com
 - ✨ Skype: hirendangar@gmail.com
-- 🎋 Bigest fan of Marvel cinema.
+- 🎋 Biggest fan of Marvel Cinematic Universe.
 
 <br/>
 <br/>
