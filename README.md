@@ -78,10 +78,10 @@ SPECIALISATIONS:
 
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
 
-❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hirendangar/)](https://www.linkedin.com/in/hirendangar/)
+❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Hiren_Dangar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hirendangar/)](https://www.linkedin.com/in/hirendangar/)
 or [![Gmail Badge](https://img.shields.io/badge/-hirendangar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hirendangar@gmail.com)](mailto:hirendangar@gmail.com)
 
-<!--❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
+<!--❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hirendangar13)](https://twitter.com/hirendangar13)
 if you are on a similar path as mine.
 -->
 
