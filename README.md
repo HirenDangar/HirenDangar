@@ -1,50 +1,93 @@
-### Hello World ! 👋
+### Hi there 👋, I'm [Aman](https://github.com/aman-atg) 👨‍💻
 
-<img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
-<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Kawtar CHOUBARI</b>, a Software Engineer Grad. 2022 (open to new positions) & Mobile Developer. I program Android Apps with Java and Hybrid Apps with React Native. I'm on a mission to create valuable content for programmers and coding enthusiasts on <a href="https://youtube.com/c/kawtarChoubari">YouTube</a>. I also create weekly coding content on <a href="https://instagram.com/choubari_/">Instagram</a>. Got a project? Hiring a mobile developer? please contact me through <a href="https://www.linkedin.com/in/choubari/">LinkedIn</a>!</p></samp> 
+<br/>
 
-## 
+<a href="https://www.linkedin.com/in/aman-atg/">
+  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-### **Languages and Technologies:**
-<p float="left">
- <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
-  </a>
- <a href="https://en.wikipedia.org/wiki/TypeScript">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
-  </a>
- <a href="https://reactjs.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
-  </a>
- <a href="https://www.java.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
- </a>
- <a href="https://www.android.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
- </a>
- <a href="https://git-scm.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
-  </a>
- <a href="https://code.visualstudio.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
-  </a>
+<a href="https://t.me/amanatg0">
+  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+<a href="https://twitter.com/aman_atg">
+  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="mailto:aman.atg001@gmail.com">
+  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+
+<br />
+
+<br/>
+
+<p>
+A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
+<br/>
+Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
+<br/>  
+Things I am currently experimenting with : jest , enzyme , typescript, ...
+<br/>
+Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
 
-## 
 
-### **Featured Projects:**
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  
+### ✨ Quick Facts
 
-<a href='https://play.google.com/store/apps/developer?id=ChoubApps&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' align="right"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="270" align="right"/></a>
-<samp><p align=”justify” style="text-indent:40px;"> 
- <b>📿 Hissn Al Muslim</b> (an android app for Muslims) with 1K+ downloads on Google Play with a 4.8 rating after 42+ reviews, <a href="https://github.com/choubari/Muslim-App/">open sourced on Github</a> with 100+ stars and 30+ forks. 
- <br/>
- <b>💎 Kind Net</b> (a 2D educational game for kids to raise awareness against cyberbullying by spreading kindness) with 10K+ downloads on Google Play with a 4.5 rating after 20+ reviews, <a href="https://github.com/choubari/Kind-Net">open sourced on Github</a> as well.</p></samp> 
+- 👨🏽‍💻 I’m currently working as a freelancer.
+- 🌱 I’m currently learning Unit-Testing and TypeScript.
+<!--- 🤔 I’m looking for help for my future MERN projects.-->
+- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+<!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
+- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
+- 📫 How to reach me: aman.atg001@gmail.com
+- 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)
 
-## 
-### 💬 Find me [elsewhere on the internet](https://linktr.ee/choubari).
-## 
+### 🛠️ Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 
-<img alt="choubari" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250">
-<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=choubari&show_icons=true"/>
 
+### 👣 Next Steps
+
+_Since you don't want to leave my profile just yet! Here are some things you can do :_
+
+❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
+or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:aman.atg001@gmail.com)
+
+<!--❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
+if you are on a similar path as mine.
+-->
+
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
+----
+Credit: [aman-atg](https://github.com/aman-atg)
+
+Last Edited on: 19/11/2020
