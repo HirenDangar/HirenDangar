@@ -38,7 +38,7 @@ SPECIALISATIONS:
 </p>
 
 
-  <img align="right" alt="GIF" src="https://i.ibb.co/LpgdFKH/tumblr-7ad60f869aa246feb25c825e3ff79cd6-b69f9301-540.webp" width="500" height="600"/>
+  <img align="right" alt="GIF" src="https://i.ibb.co/LpgdFKH/tumblr-7ad60f869aa246feb25c825e3ff79cd6-b69f9301-540.webp" width="500" height="300"/>
   
 ### ✨ Quick Facts
 
