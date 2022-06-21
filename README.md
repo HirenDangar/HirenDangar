@@ -69,10 +69,6 @@ SPECIALISATIONS:
 ![Odoo13](https://img.shields.io/badge/-Odoo13-pink)
 ![Odoo14](https://img.shields.io/badge/-Odoo14-pink)
 ![Odoo15](https://img.shields.io/badge/-Odoo15-pink)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-
 
 
 ### 👣 Next Steps
