@@ -50,7 +50,7 @@ SPECIALISATIONS:
 
 ### 🛠️ Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/Odoo-Odoo%3A%20Open%20Source%20ERP%20and%20CRM-pink)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
