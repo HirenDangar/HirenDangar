@@ -31,11 +31,8 @@ An Odoo (OpenERP) backend developer having six(6) years of experience in Odoo/Op
   
 ### ✨ **SPECIALISATIONS**
 - 💚 Odoo Module Customisation 
-<br/>
 - 💚 Odoo Code Migration
-<br/>
 - 💚 Odoo Report creations
-<br/>
 - 💚 Odoo Community Association(OCA) member.
 <br/>
 </p>
