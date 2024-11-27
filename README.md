@@ -15,10 +15,7 @@
 <a href="https://join.skype.com/invite/fSvHdKwwejgq" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Hiren's Skype" height="30" width="40" />
 </a>
-
-
 <br />
-
 <br/>
 <p>
 Experienced Software development with a demonstrated history of working in the computer software industry. Skilled in Odoo (OpenERP)/Python and Software Development.
